@@ -3,12 +3,10 @@
 }
 
 .container {
-    
     background-color:rgb(145, 47, 47);
     padding: 20px;
     color: white;
     justify-content: center;
-    
 }
 
 article {
@@ -17,14 +15,17 @@ article {
 
 .dadosCat {
     text-align: center;
+    justify-content: center;
 }
 
 .dadosCao {
     text-align: center;
+    justify-content: center;
 }
 
 .dadosMedicamentos {
     text-align: center;
+    justify-content: center;
 }
 
 .menu {
@@ -36,15 +37,12 @@ article {
     list-style: none;
     display: inline-block;
     color: black;
-    
 }
 
 .menu a {
-
     display: block;
     text-decoration: none;
     padding: 16px;
-    
 }
 
 .menu a:hover {
@@ -57,12 +55,9 @@ footer {
     padding: 100px;
     color: white;
     text-align: center;
-    
-   
 }
 
 .container {
     display: flex;
     align-items: center;
-    
 }
